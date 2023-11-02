@@ -72,3 +72,4 @@ samples, guidance on mobile development, and a full API reference.
 - 3 取餐完毕关上柜门，柜子进入“空闲”状态
 - *************************************************************************************************
 
+# cabinet-with-facerecognize-base-on-IoT
